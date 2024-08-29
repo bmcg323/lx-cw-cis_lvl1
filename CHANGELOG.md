@@ -8,3 +8,6 @@ Initial release.
 
 - change 0
 - change 1
+
+# Possibly impactful changes
+- adding noexec to /tmp

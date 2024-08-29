@@ -1,0 +1,6 @@
+# sets CIS lvl1 controls
+# managed by CINC
+
+Defaults use_pty
+Defaults logfile=/var/log/sudo.log
+Defaults env_reset, timestamp_timeout=5

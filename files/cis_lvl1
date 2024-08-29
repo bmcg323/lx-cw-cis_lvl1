@@ -1,0 +1,5 @@
+TMOUT=900
+readonly TMOUT
+export TMOUT
+
+umask 027
